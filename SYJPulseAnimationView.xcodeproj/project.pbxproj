@@ -13,6 +13,8 @@
 		35DF4BCB26CBAA1500139C8A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35DF4BC926CBAA1500139C8A /* Main.storyboard */; };
 		35DF4BCD26CBAA1800139C8A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35DF4BCC26CBAA1800139C8A /* Assets.xcassets */; };
 		35DF4BD026CBAA1800139C8A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35DF4BCE26CBAA1800139C8A /* LaunchScreen.storyboard */; };
+		35DF4BD826CBAA2E00139C8A /* SYJPulseAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DF4BD726CBAA2E00139C8A /* SYJPulseAnimationView.swift */; };
+		35DF4BDA26CBAA6200139C8A /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DF4BD926CBAA6200139C8A /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		35DF4BCC26CBAA1800139C8A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35DF4BCF26CBAA1800139C8A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35DF4BD126CBAA1800139C8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35DF4BD726CBAA2E00139C8A /* SYJPulseAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SYJPulseAnimationView.swift; sourceTree = "<group>"; };
+		35DF4BD926CBAA6200139C8A /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				35DF4BC326CBAA1500139C8A /* AppDelegate.swift */,
 				35DF4BC526CBAA1500139C8A /* SceneDelegate.swift */,
 				35DF4BC726CBAA1500139C8A /* ViewController.swift */,
+				35DF4BD926CBAA6200139C8A /* ViewController2.swift */,
+				35DF4BD726CBAA2E00139C8A /* SYJPulseAnimationView.swift */,
 				35DF4BC926CBAA1500139C8A /* Main.storyboard */,
 				35DF4BCC26CBAA1800139C8A /* Assets.xcassets */,
 				35DF4BCE26CBAA1800139C8A /* LaunchScreen.storyboard */,
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35DF4BDA26CBAA6200139C8A /* ViewController2.swift in Sources */,
+				35DF4BD826CBAA2E00139C8A /* SYJPulseAnimationView.swift in Sources */,
 				35DF4BC826CBAA1500139C8A /* ViewController.swift in Sources */,
 				35DF4BC426CBAA1500139C8A /* AppDelegate.swift in Sources */,
 				35DF4BC626CBAA1500139C8A /* SceneDelegate.swift in Sources */,
